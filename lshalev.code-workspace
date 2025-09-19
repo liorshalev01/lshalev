@@ -26,7 +26,7 @@
     "[astro]": {
       "editor.defaultFormatter": "astro-build.astro-vscode"
     },
-    "cSpell.words": [""]
+    "cSpell.words": ["Backhaul", "Celtro", "CMTS", "Qube", "Terayon"]
   },
   "extensions": {
     "recommendations": [
