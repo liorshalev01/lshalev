@@ -1,5 +1,10 @@
 ---
 import Layout from "../layouts/Layout.astro";
-
-<Layout></Layout>;
+import { Content as CV } from "./lior-shalev-cv.md";
 ---
+
+<Layout>
+  <div class="prose mx-auto p-8">
+    <CV />
+  </div>
+</Layout>
