@@ -4,13 +4,15 @@
 [liorshalev01@gmail.com](mailto:liorshalev01@gmail.com)  
 <https://linkedin.com/in/liorshalev>
 
-I’m a software developer with extensive experience in designing and delivering high-performance, cross-platform solutions across Windows, Linux, Android, iOS, and cloud environments. I excel at building robust software pipelines, leading teams, and driving innovations in cybersecurity, large-scale distributed systems, and embedded software projects.
+I'm a software developer with expertise in designing and delivering high-performance, cross-platform solutions for Windows, Linux, Android, iOS, and cloud environments. I excel at building robust software pipelines, leading teams, and driving innovation in cybersecurity, large-scale distributed systems, and embedded software projects.
 
 ## Jan 2023 – Apr 2024: Talon Cyber Security
 
 ### Senior Software Developer
 
-- Developed key Chromium Browser features, with a focus on data protection and extension interface implementations. Researched browser security and performance optimization.
+- Developed Chromium Browser DLP features.
+- Researched add developed Chromium secure features.
+- Researched browser security and performance optimization.
 - **Technologies:** Chromium, C/C++, Python, JavaScript, TypeScript.
 
 ## Dec 2019 – Dec 2022: D-Fend
