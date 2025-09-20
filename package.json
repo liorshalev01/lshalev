@@ -11,9 +11,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.13",
     "astro": "^5.13.9",
-    "tailwindcss": "^4.1.13"
-  },
-  "devDependencies": {
+    "tailwindcss": "^4.1.13",
     "@tailwindcss/typography": "^0.5.18"
   }
 }
