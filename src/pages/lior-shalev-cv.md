@@ -4,15 +4,15 @@
 [liorshalev01@gmail.com](mailto:liorshalev01@gmail.com)  
 <https://linkedin.com/in/liorshalev>
 
-I am a software developer with extensive experience in designing and delivering high-performance, cross-platform solutions across Windows, Linux, Android, iOS, and cloud environments. I excel at building robust software pipelines, leading teams, and driving innovations in cybersecurity, large-scale distributed systems, and embedded software projects.
+I’m a software developer with extensive experience in designing and delivering high-performance, cross-platform solutions across Windows, Linux, Android, iOS, and cloud environments. I excel at building robust software pipelines, leading teams, and driving innovations in cybersecurity, large-scale distributed systems, and embedded software projects.
 
-## 2023–2024: Talon Cyber Security
+## Jan 2023 – Apr 2024: Talon Cyber Security
 
 ### Senior Software Developer
 
 - Developed key Chromium Browser features, with a focus on data protection and extension interface implementations. Researched browser security and performance optimization. Tools and platforms: Chromium, C/C++, Python, JavaScript, TypeScript.
 
-## 2019–2022: D-Fend
+## Dec 2019 – Dec 2022: D-Fend
 
 ### Senior Software Developer
 
@@ -21,14 +21,14 @@ I am a software developer with extensive experience in designing and delivering 
 - Software architect and leader of the RF system testing project. Tools and platforms: Python, Elasticsearch, and RF testing lab equipment.
 - Software architect and leader of code quality initiatives, DevOps practices, and release management. Tools and platforms: Gitlab, SonarQube, and Kubernetes.
 
-## 2018–2019: TechSee
+## Jan 2018 – Dec 2019: TechSee
 
 ### Senior Software Developer
 
 - Software architect and developer of an augmented reality web application leveraging AI and computer vision technology. Integrated and optimized browser-based image processing and AI networks with WebRTC. Tools and platforms: iOS, Android, React, TypeScript, Python, TensorFlow, and OpenCV.
 - Software architect and developer of augmented reality Android/iOS apps using AI and computer vision technology. Integrated and optimized of real-time object tracking AI networks for live video processing. Tools and platforms: iOS, Android, React Native, C++, Swift/ObjC, Java, NDK, TensorFlow, CoreML, and OpenCV.
 
-## 2016–2018: Career Break
+## 2016–2018: Personal goal pursuit
 
 Dedicated time to reading, learning, and exploring technologies and ideas.
 
