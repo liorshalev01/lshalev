@@ -10,9 +10,9 @@ I'm a software developer with expertise in designing and delivering high-perform
 
 ### Senior Software Developer
 
-- Developed Chromium Browser DLP features.
-- Researched and developed Chromium secure features.
-- Researched browser security and performance optimization.
+- Implemented Data Loss Prevention (DLP) enterprise policies for the Chromium browser.
+- Researched and implemented Chromium security hardening features.
+- Researched and resolved Chromium performance issues.
 - **Technologies:** Chromium, C/C++, Python, JavaScript, TypeScript.
 
 ## Dec 2019 – Dec 2022: D-Fend
