@@ -55,12 +55,12 @@ Dedicated time to reading, learning, and exploring technologies and ideas.
 
 ## 2002 - 2004: Terayon
 
-### Software Developer for VoIP Modem and CMTS Systems
+### Software Developer, VoIP Modem and CMTS Systems
 
 - Software developer focusing on IP security and routing protocols.
 
 ## 2000 - 2002: Vigilant Technology
 
-### Software Developer of Video Surveillance Systems
+### Software Developer, Video Surveillance Systems
 
 - Software architect and developer of MPEG4 video storage systems using RAID and high-performance storage infrastructure, implementing real-time face recognition algorithms.
