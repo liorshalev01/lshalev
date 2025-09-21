@@ -29,7 +29,6 @@ I'm a software developer with expertise in designing and delivering high-perform
 
 - Software architect and developer of an augmented reality web application leveraging AI and computer vision technology. Integrated and optimized browser-based image processing and AI networks with WebRTC.
 - Software architect and developer of augmented reality Android/iOS apps using AI and computer vision technology. Integrated and optimized of real-time object tracking AI networks for live video processing.
-- **Technologies:** iOS, Android, React, React Native, TypeScript, Python, C++, Swift/ObjC, Java, NDK, TensorFlow, CoreML, OpenCV.
 
 ## 2016–2018: Personal goal pursuit
 
