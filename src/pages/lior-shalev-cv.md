@@ -4,7 +4,7 @@
 [liorshalev01@gmail.com](mailto:liorshalev01@gmail.com)  
 <https://linkedin.com/in/liorshalev>
 
-I'm a software developer with expertise in designing and delivering high-performance, cross-platform solutions for Windows, Linux, Android, iOS, and cloud environments. I excel at building robust software pipelines, leading teams, and driving innovation in cybersecurity, large-scale distributed systems, and embedded software projects.
+I am a software developer, architect, and technical leader with over 20 years of experience delivering mission-critical, high-performance software. I combine expertise in cybersecurity and low-level systems engineering with a proven ability to build complex, cross-platform applications for cloud, mobile, and browser environments. My track record demonstrates success in providing technical leadership, driving vision from concept to production, and delivering significant business impact.
 
 ## Jan 2023 – Apr 2024: Talon Cyber Security
 
@@ -30,7 +30,7 @@ I'm a software developer with expertise in designing and delivering high-perform
 ### Senior Software Developer
 
 - Software architect and developer of an augmented reality web application leveraging AI and computer vision technology. Integrated and optimized browser-based image processing and AI networks with WebRTC.
-- Software architect and developer of augmented reality Android/iOS apps using AI and computer vision technology. Integrated and optimized of real-time object tracking AI networks for live video processing.
+- Software architect and developer of augmented reality Android/iOS apps using AI and computer vision technology. Integrated and optimized real-time object tracking AI networks for live video processing.
 - **Skills:** C++, JavaScript, TypeScript, OpenCV, TensorFlow, iOS Development, Android Development, Amazon Web Services (AWS), Python, Swift, Objective-C, React.js, React Native
 
 ## 2016–2018: Professional Development
@@ -70,4 +70,4 @@ I'm a software developer with expertise in designing and delivering high-perform
 ### Software Developer, Video Surveillance Systems
 
 - Software architect and developer of MPEG4 video storage systems using RAID and high-performance storage infrastructure, implementing real-time face recognition algorithms.
-- **Skills:** C, C++, win32, Internet Protocol (IP)
+- **Skills:** C, C++, Win32, Internet Protocol (IP)
