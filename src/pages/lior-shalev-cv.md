@@ -4,7 +4,7 @@
 [liorshalev01@gmail.com](mailto:liorshalev01@gmail.com)  
 <https://linkedin.com/in/liorshalev>
 
-I’m a software developer, architect and technical leader with over 20 years of experience delivering mission-critical, high-performance software. I combine expertise in cybersecurity and low-level systems engineering—from Linux kernel and BSPs to IP security protocols—with a proven ability to build complex, cross-platform applications across cloud, mobile, and web environments. I have a proven track record of providing technical leadership, driving technical vision from concept to production, and delivering significant business impact.
+I'm a software developer, architect, and technical leader with over 20 years of experience delivering mission-critical, high-performance software. I combine expertise in cybersecurity and low-level systems engineering with a proven ability to build complex, cross-platform applications for cloud, mobile, and browser environments. My track record demonstrates success in providing technical leadership, driving vision from concept to production, and delivering significant business impact.
 
 ## Jan 2023 – Apr 2024: Talon Cyber Security
 
